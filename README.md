@@ -18,9 +18,9 @@ As a learner, I enjoy using my obsessive attention to detail, my unequivocal lov
 
 - 👨🏻‍💻 I work on anything that I find deficient and needs improvement;
 - 🚀 I'm currently learning operating systems, especially the Linux kernel and the Android operating system from the hardware level;
-- 🌱 I am building an Android system and creating custom ROMs [medium](https://forum.xda-developers.com/m/lamjiidii1.10095643/);
+- 🌱 I am building an Android system and creating custom ROMs [xda](https://forum.xda-developers.com/m/lamjiidii1.10095643/);
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: gapur.kassym@gmail.com;
+- 📫 How to reach me: lamjiidii1@gmail.com or [Telegram](https://t.me/lamjiidii1);
 
 **Languages and Tools:**  
 
