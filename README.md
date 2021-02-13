@@ -11,7 +11,7 @@ I am a chemistry student and developer. I love programming, writing, handball an
 
 As a learner, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make new stuff and break else, actually that what I'm really good at is breaking things 😂 .
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="357" height="280" />
   
 
 **Talking about Personal Stuffs:**
