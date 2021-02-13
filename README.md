@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://github.com/lamjiidii1" target="_blank">Lamjidi Othman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![XDA Badge](https://img.shields.io/badge/-XDA-0e76a8?style=flat-square&logo=XDA&logoColor=white)](https://www.facebook.com/lamjiidii1)
+[![XDA Badge](https://img.shields.io/badge/-xda-developers-0e76a8?style=flat-square&logo=xda-developers&logoColor=white)](https://www.facebook.com/lamjiidii1)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/lamjiidii1)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/lamjidi0)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lamjiidii1/)
