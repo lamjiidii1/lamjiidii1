@@ -1,6 +1,5 @@
 ### Hi there, I'm <a href="https://github.com/lamjiidii1" target="_blank">Lamjidi Othman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![XDA Badge](https://img.shields.io/badge/-xda-0e76a8?style=flat-square&logo=xda&logoColor=white)](https://www.facebook.com/lamjiidii1)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/lamjiidii1)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/lamjidi0)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lamjiidii1/)
@@ -25,15 +24,9 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Java     7 hrs           ██████████████████▓░░░░░░   74.58 % 
-XML      2 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.78 % 
-Groovy   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-```
-<!--END_SECTION:waka-->
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
+<a href="https://www.paypal.me/lamjiidii1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 📈 **My GitHub Stats:**
 
