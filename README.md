@@ -22,7 +22,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
 - 📫 How to reach me: gapur.kassym@gmail.com;
 
-</br>
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
