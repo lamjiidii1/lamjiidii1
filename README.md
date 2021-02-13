@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lamjiidii1.lamjiidii1)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I am a chemistry student and developer. I love programming, writing, handball and messing with anything I find.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
