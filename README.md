@@ -16,10 +16,10 @@ As a learner, I enjoy using my obsessive attention to detail, my unequivocal lov
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 👨🏻‍💻 I work on anything that I find deficient and needs improvement;
+- 🚀 I'm currently learning operating systems, especially the Linux kernel and the Android operating system from the hardware level;
+- 🌱 I am building an Android system and creating custom ROMs [medium](https://forum.xda-developers.com/m/lamjiidii1.10095643/);
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
 - 📫 How to reach me: gapur.kassym@gmail.com;
 
 **Languages and Tools:**  
